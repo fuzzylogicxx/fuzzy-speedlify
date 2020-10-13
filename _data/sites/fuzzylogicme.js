@@ -1,6 +1,6 @@
 module.exports = {
 	name: "fuzzylogic.me", // optional, falls back to object key
-	description: "Laurence’s personal web site",
+	description: "Fuzzy Logic: Laurence Hughes’s personal web site",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
