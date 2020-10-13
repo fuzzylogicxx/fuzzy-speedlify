@@ -10,10 +10,11 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://fuzzylogic.me/", 
-		"https://fuzzylogic.me/about",
-    "https://fuzzylogic.me/posts/how-i-consume-and-read-rss-feeds/", 
-    "https://fuzzylogic.me/posts/northern-road-trip-2020/", 
-    "https://fuzzylogic.me/posts/mar-2020-record-purchases-isolated-moments/"
+		"https://v4.fuzzylogic.me/", 
+		//"https://fuzzylogic.me/", 
+		//"https://fuzzylogic.me/about",
+		//"https://fuzzylogic.me/posts/how-i-consume-and-read-rss-feeds/", 
+    		//"https://fuzzylogic.me/posts/northern-road-trip-2020/", 
+    		//"https://fuzzylogic.me/posts/mar-2020-record-purchases-isolated-moments/"
 	]
 };
