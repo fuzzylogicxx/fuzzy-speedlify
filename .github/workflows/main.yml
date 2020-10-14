@@ -1,10 +1,8 @@
-# .github/workflows/main.yml
-
 name: Trigger Netlify Build
 on:
   schedule:
     # Run at 0800 UTC daily (9am BST)
-    - cron: '00 8 * * *'
+    - cron: '30 8 * * *'
 jobs:
   build:
     name: Run via Netlify Webhook
