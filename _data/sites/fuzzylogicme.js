@@ -10,6 +10,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://v4.fuzzylogic.me/"
+		"https://fuzzylogic.me/"
 	]
 };
