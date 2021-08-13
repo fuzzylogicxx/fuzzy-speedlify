@@ -1,5 +1,5 @@
 module.exports = {
-	name: "fuzzylogic.me", // optional, falls back to object key
+	name: "FL rework", // optional, falls back to object key
 	description: "Fuzzy Logic: Laurence Hughes’s personal web site",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
@@ -10,6 +10,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://fuzzylogic.me/"
+		"https://deploy-preview-23--vigilant-almeida-537bd4.netlify.app/"
 	]
 };
